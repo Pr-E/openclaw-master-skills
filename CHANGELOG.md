@@ -48,3 +48,15 @@ Updated every Monday.
 ---
 
 *Next update: 2026-03-16*
+
+## v0.3.0 (2026-03-11)
+
+### 🚀 Major Update — 339 Skills
+
+- Expanded from 164 to **339 curated skills**
+- Added 175 new high-quality skills across all categories
+- New categories: Finance & Trading, Security & Auditing, Data & Analytics
+- Major additions include: stock analysis, desktop control, deep research, n8n workflows, home automation, and more
+- Improved categorization with 14 distinct categories
+- Updated all language READMEs
+
