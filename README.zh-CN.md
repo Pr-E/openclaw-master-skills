@@ -382,7 +382,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 | [`data-analysis`](skills/data-analysis/) | Turn raw data into decisions with statistical rigor, proper methodology, and awareness of analytical |
 | [`data-analyst`](skills/data-analyst/) | Data visualization, report generation, SQL queries, and spreadsheet automation. Transform your AI ag |
 
-### 📱 Social & Content (12)
+### 📱 Social & Content (13)
 
 | 技能 | 描述 |
 |---|---|
@@ -394,6 +394,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 | [`reddit`](skills/reddit/) | Browse, search, post, and moderate Reddit. Read-only works without auth; posting/moderation requires |
 | [`reddit-readonly`](skills/reddit-readonly/) | >- |
 | [`social-content`](skills/social-content/) | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twit |
+| [`tweetclaw`](skills/tweetclaw/) | OpenClaw plugin for X/Twitter search, posting, follower export, media, monitors, webhooks, DMs, and giveaway draws via Xquik. |
 | [`weibo-trending-bot`](skills/weibo-trending-bot/) | 实时监控微博热搜榜，追踪热点话题、明星八卦、社会新闻。自动生成蹭热点文案。 |
 | [`x-twitter`](skills/x-twitter/) | Interact with Twitter/X — read tweets, search, post, like, retweet, and manage your timeline. |
 | [`xiaohongshu-mcp`](skills/xiaohongshu-mcp/) | > |
